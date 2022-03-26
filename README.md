@@ -1,12 +1,12 @@
-### Hi there! 👋
+### :sunglasses:  Hey! Nice to see you.
+____________________________________________________________________________________________________________________________
+You are welcome 👋  🇧🇷 🏳️‍🌈 😃  
 
-### My name is Jean 🇧🇷 🏳️‍🌈 😃  
 
-- 🔭 I’m currently working on Financial Sector.
-- 💬 Ask me about anything
-- 📫 How to reach me: jeanriffel1@gmail.com
+My name is Jean, I am software developer, here I want to share my studies and ideas, whether my project can help you in some way please feel free and use it as you want.
+ 
+#### I code with 
 
-<br>
 <code><img height="20" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"></code>
@@ -18,5 +18,6 @@
 <code><img height="20" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
-
+<code><img height="20" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></code>
 
