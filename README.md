@@ -2,8 +2,9 @@
 ____________________________________________________________________________________________________________________________
 You are welcome 👋 🏳️‍🌈 😃  
 
+My name is Jean from 🇧🇷, I have been working as software developer since 2006
 
-My name is Jean, I am software developer from 🇧🇷, here I want to share my studies and ideas, whether my project can help you in some way please feel free and use it as you want.
+Here I want to share my studies and ideas, whether my project can help you in some way please feel free and use it as you want.
  
 #### I code with 
 
