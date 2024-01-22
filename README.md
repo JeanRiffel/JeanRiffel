@@ -1,10 +1,12 @@
 ###   Hi there! :sunglasses:
 ____________________________________________________________________________________________________________________________
-I am Jean a Brazilian 🇧🇷 Software Engineer.
+I'm Jean, a Brazilian 🇧🇷 Software Engineer.
 
-Since I stared my career in 2006 I got experience in many different business sectors such as: Insurance, Ecommerce, FinTech, etc. Also, I have been working with some technologies and companies sizes.
+Since the beginning of my career in 2006, I've accumulated valuable experience across diverse sectors, including Insurance, Ecommerce, FinTech, and more. 
 
-This profile only intended to share my personal projects and interests. Whether you find some useful content here you can use it to study too.
+Over the years, I've collaborated with various technologies and companies of different sizes.
+
+This profile serves as a platform to share my personal projects and interests. If you come across content that resonates with you, feel free to use it for study and exploration
 
 <code><img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
