@@ -1,24 +1,47 @@
-###   Hi there! :sunglasses:
-____________________________________________________________________________________________________________________________
-I'm Jean, a Brazilian 🇧🇷 Software Engineer.
+# Hi, I'm Jean Riffel 👋
 
-Since the beginning of my career in 2006, I've accumulated valuable experience across diverse sectors, including Insurance, Ecommerce, FinTech, and more. 
+## Senior Software Engineer | Fullstack Developer | Node.js | React | TypeScript | AI & Crypto Enthusiast
 
-Over the years, I've collaborated with various technologies and companies of different sizes.
+I’m a Brazilian software engineer with 20+ years of experience building scalable web applications and APIs, mostly in Finance, FinTech, Ecommerce, and Insurance sectors.
 
-This profile serves as a platform to share my personal projects and interests. If you come across content that resonates with you, feel free to use it for study and exploration
+### 🚀 Technologies & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-<code><img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-<code><img height="20" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"></code> 
-<code><img height="20" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code><code><img height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code><code><img height="20" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></code><code><img height="20" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"></code>
+---
+
+### 🌱 Currently Learning
+- AI / Machine Learning
+- Blockchain development and Smart Contracts (Solidity, Ethereum)
+- Advanced TypeScript patterns and architecture
+
+---
+
+### 📫 How to reach me
+- LinkedIn: [linkedin.com/in/jeanriffel](https://www.linkedin.com/in/jeanriffel)
+
+---
 
 
+### 📂 Featured Projects
+- [Credit Card Billing API](https://github.com/jeanriffel/credit-card-billing-api) — RESTful API with Node.js, Express, PostgreSQL, Docker.
+- [Lottery Smart Contract](https://github.com/jeanriffel/lottery-smart-contract) — Solidity, Ganache, Truffle.
+- [Front-End Lottery Smart Contract](https://github.com/jeanriffel/front-end-lottery-smart-contract) — Next.js, TypeScript, MUI.
+- [Back-End Lottery Smart Contract](https://github.com/jeanriffel/back-end-lottery-smart-contract) — NestJS, Swagger, TypeScript.
 
+---
+
+### ⚡ Fun Fact
+Outside of coding, I enjoy cycling, traveling, reading, and exploring crypto market trends.
+
+---
+
+⭐️ Feel free to explore my repos, star them, and connect with me!
 
