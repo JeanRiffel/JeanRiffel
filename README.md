@@ -2,7 +2,7 @@
 
 ## Senior Software Engineer | Fullstack Developer | Node.js | React | TypeScript | AI & Crypto Enthusiast
 
-I’m a Brazilian software engineer with 20+ years of experience building scalable web applications and APIs, mostly in Finance, FinTech, Ecommerce, and Insurance sectors.
+I’m a Brazilian software engineer with 18+ years of experience building scalable web applications and APIs, mostly in Finance, FinTech, Ecommerce, and Insurance sectors.
 
 ### 🚀 Technologies & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
