@@ -35,6 +35,7 @@ I’m a Brazilian software engineer with 18+ years of experience building scalab
 - [Lottery Smart Contract](https://github.com/jeanriffel/lottery-smart-contract) — Solidity, Ganache, Truffle.
 - [Front-End Lottery Smart Contract](https://github.com/jeanriffel/front-end-lottery-smart-contract) — Next.js, TypeScript, MUI.
 - [Back-End Lottery Smart Contract](https://github.com/jeanriffel/back-end-lottery-smart-contract) — NestJS, Swagger, TypeScript.
+- [Query-Mind](https://github.com/JeanRiffel/query-mind) — AI-powered query engine using TypeScript and Node.js.
 
 ---
 
