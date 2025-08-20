@@ -29,12 +29,11 @@ I’m a Brazilian software engineer with 18+ years of experience building scalab
 
 ---
 
-
 ### 📂 Featured Projects
-- [Credit Card Billing API](https://github.com/jeanriffel/credit-card-billing-api) — RESTful API with Node.js, Express, PostgreSQL, Docker.
-- [Lottery Smart Contract](https://github.com/jeanriffel/lottery-smart-contract) — Solidity, Ganache, Truffle.
-- [Front-End Lottery Smart Contract](https://github.com/jeanriffel/front-end-lottery-smart-contract) — Next.js, TypeScript, MUI.
-- [Back-End Lottery Smart Contract](https://github.com/jeanriffel/back-end-lottery-smart-contract) — NestJS, Swagger, TypeScript.
+- [Credit Card Billing API](https://github.com/JeanRiffel/card-billing-management-api) — RESTful API with Node.js, Express, PostgreSQL, Docker.
+- [Lottery Smart Contract](https://github.com/JeanRiffel/lottery-smart-contract) — Solidity, Ganache, Truffle.
+- [Front-End Lottery Smart Contract](https://github.com/JeanRiffel/front-end-lottery-smart-contract) — Next.js, TypeScript, MUI.
+- [Back-End Lottery Smart Contract](https://github.com/JeanRiffel/back-end-lottery-smart-contract) — NestJS, Swagger, TypeScript.
 - [Query-Mind](https://github.com/JeanRiffel/query-mind) — AI-powered query engine using TypeScript and Node.js.
 
 ---
