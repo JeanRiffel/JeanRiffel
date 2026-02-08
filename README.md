@@ -18,7 +18,7 @@ My background includes:
 
 ✓ Strong hands-on work with Node.js, TypeScript, React, Express, Next.js
 
-✓ Currently studying & building projects with AI (LLMs, RAG) and Web3
+✓ Currently exploring & building projects with AI (LLMs, RAG) and Web3
 
 I’m actively seeking international remote opportunities where I can contribute to high-impact products.
 
