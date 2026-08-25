@@ -1,75 +1,28 @@
-👋 Hi, I'm Jean Riffel
+# 👋 Hi, I'm Jean Riffel
 
-Senior Software Engineer | Node.js • TypeScript • React
-20+ years building software in fintech, e-commerce, and API-driven platforms.
+**Senior Software Engineer | Backend | Node.js • TypeScript**
 
-***
+20+ years building software across **fintech, payments, logistics and e-commerce**.
 
-🚀 About Me
+I specialize in backend engineering, API-driven systems, integrations, microservices and distributed architectures.
 
-I’m a senior full-stack engineer with a strong focus on backend development and scalable architectures.
-My background includes:
+### 💻 Engineering Focus
 
-✓ Over two decades in software engineering
+* Backend systems with Node.js & TypeScript
+* APIs, integrations and event-driven architectures
+* PostgreSQL, MongoDB, Redis, RabbitMQ & Kafka
+* Distributed systems, scalability and reliability
+* Fintech, payments and cross-border systems
 
-✓ Fintech, payments, foreign-exchange and e-commerce systems
+### 🚀 What I'm Building
 
-✓ Deep experience in API integrations, microservices and automation
+I use my personal projects to explore real-world engineering problems around:
 
-✓ Strong hands-on work with Node.js, TypeScript, React, Express, Next.js
+* Financial systems & payment infrastructure
+* Distributed systems & concurrency
+* AI/LLM applications
+* Blockchain & Web3
 
-✓ Currently exploring & building projects with AI (LLMs, RAG) and Web3
+### 📫 Connect
 
-I’m actively seeking international remote opportunities where I can contribute to high-impact products.
-
-***
-
-🛠️ Tech Stack
-Languages & Runtime
-
-JavaScript • TypeScript • Node.js
-
-Backend
-
-Express.js • Next.js (API) • REST • Webhooks • Microservices
-
-Worker Threads, Child Processes, Streams
-
-Frontend
-
-React • Next.js • MUI
-
-Tools & Dev Practices
-
-Jest • Docker • Git • CI/CD
-
-Architecture, scalability, performance optimization
-
-Domains
-
-Fintech • Payments • E-commerce • API integrations
-
-***
-
-📚 Currently Learning
-
-✓ AI/LLMs (RAG, vector databases, embeddings, OpenAI APIs)
-
-✓ Blockchain & Web3 fundamentals
-
-***
-
-🌎 What I’m Looking For
-
-Remote Senior Backend or Full-Stack roles
-
-Companies working with fintech, e-commerce, AI or high-scale products
-
-Teams that value clean architecture, engineering quality, and ownership
-
-***
-
-📫 Connect With Me
-
-LinkedIn: [Jean Riffel](https://www.linkedin.com/in/jeanriffel/)
-
+[LinkedIn](https://www.linkedin.com/in/jeanriffel/)
